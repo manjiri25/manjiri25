@@ -1,0 +1,67 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "c07c89db-8f15-4a14-acef-f911f219992c",
+  "config.email.suffix" : "@",
+  "config.file.name" : "PnD_diag_APP_layer1.csv",
+  "config.field.mappings" : {
+    "IMPACTED CORE TEAM" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10438"
+    },
+    "REVISION" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10446"
+    },
+    "Issue type" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "SUMMARY" : {
+      "jira.field" : "summary",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "REQ Ticket type" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10437"
+    },
+    "DESCRIPTION" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10106"
+    },
+    "REF. DOCUMENT" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10444"
+    },
+    "FEATURE" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10151"
+    },
+    "Section" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10445"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : { },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "E9ALMTEST",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "FCE ALM Test",
+    "project.lead" : "ug:3ae78813-328b-4389-8612-e7fb62dfefa3"
+  },
+  "config.date.format" : "yyyy-MM-dd hh:mm z"
+}
